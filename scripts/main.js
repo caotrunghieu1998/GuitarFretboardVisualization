@@ -18,4 +18,4 @@ $('[tab-name]').click((e) => {
     }
 });
 
-$(`[tab-name=${tagTypes[1]}]`).click();
+$(`[tab-name=${tagTypes[0]}]`).click();
